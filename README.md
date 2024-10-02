@@ -1,5 +1,7 @@
 # quete5
 
+"LOCAL"
+
 Merge
-Conflits 
-challenge 
+Conflits
+challenge
